@@ -1,0 +1,1 @@
+cmd='/home/icole/.espressif/tools/cmake/3.16.4/bin/cmake;-DSDKCONFIG=/home/icole/esp32projects/mqttOta/sdkconfig;-DIDF_PATH=/home/icole/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=/home/icole/esp/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

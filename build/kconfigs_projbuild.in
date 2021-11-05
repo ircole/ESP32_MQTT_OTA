@@ -1,0 +1,5 @@
+source "/home/icole/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/icole/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/icole/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/icole/esp32projects/mqttOta/main/Kconfig.projbuild"
+source "/home/icole/esp/esp-idf/components/partition_table/Kconfig.projbuild"
