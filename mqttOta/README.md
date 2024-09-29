@@ -1,4 +1,4 @@
-# ESP32 OTA with MQTT transport for Thingsboard
+# ESP32 OTA with MQTT transport for Thingsboard Updated for IDF V5
 
 This example was derived from the native_ota_example and mqtt_firmware_client.py.  It is meant to be a 
 starting point as requirements vary by projects. 
